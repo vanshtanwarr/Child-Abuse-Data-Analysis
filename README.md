@@ -14,14 +14,9 @@ Create measure table mentioned in the screenshot attached
 
 Data Visualizations:
 
-1).Create column chart to show top 5 states with child care providers by state.
-
-2).Create doughnut chart to show top states with highest child legal guidance.
-
-3).Create funnel chart to show top 5 perpetrators states.
-
-4).Create column chart to show top 6 state with highest parent by state.
-
-5).Create KPIs as cards for  total parents, total states, top perpetrators, total unmarried parents, total foster parents.
-
-6).Total child day care providers, total multiple relationship
+1. Create column chart to show top 5 states with child care providers by state.
+2. Create doughnut chart to show top states with highest child legal guidance.
+3. Create funnel chart to show top 5 perpetrators states.
+4. Create column chart to show top 6 state with highest parent by state.
+5. Create KPIs as cards for  total parents, total states, top perpetrators, total unmarried parents, total foster parents.
+6. Total child day care providers, total multiple relationship
